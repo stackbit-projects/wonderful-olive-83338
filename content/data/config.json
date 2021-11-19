@@ -32,17 +32,6 @@
                 "type": "Link"
             },
             {
-                "url": "/blog",
-                "showIcon": false,
-                "icon": "arrowLeft",
-                "iconPosition": "right",
-                "style": "link",
-                "elementId": "",
-                "type": "Link",
-                "label": "Journal",
-                "altText": "Journal"
-            },
-            {
                 "label": "About",
                 "altText": "About",
                 "url": "/about",
@@ -52,6 +41,17 @@
                 "style": "link",
                 "elementId": "",
                 "type": "Link"
+            },
+            {
+                "url": "/blog",
+                "showIcon": false,
+                "icon": "arrowLeft",
+                "iconPosition": "right",
+                "style": "link",
+                "elementId": "",
+                "type": "Link",
+                "label": "Journal",
+                "altText": "Journal"
             },
             {
                 "label": "Contact",
