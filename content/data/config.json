@@ -34,7 +34,7 @@
             {
                 "label": "Learn more",
                 "altText": "Learn more",
-                "url": "/",
+                "url": "/learn-more",
                 "showIcon": false,
                 "icon": "arrowLeft",
                 "iconPosition": "right",
