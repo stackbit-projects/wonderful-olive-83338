@@ -8,7 +8,7 @@
         "isTitleVisible": false,
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/agency-logo.svg",
+            "url": "/images/cta-about.svg",
             "altText": "Agency"
         },
         "primaryLinks": [],
@@ -68,7 +68,12 @@
         "styles": {
             "self": {
                 "width": "full",
-                "padding": ["pt-5", "pb-5", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-5",
+                    "pb-5",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     },
@@ -107,7 +112,12 @@
         "styles": {
             "self": {
                 "width": "full",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
