@@ -32,9 +32,9 @@
                 "type": "Link"
             },
             {
-                "label": "About",
-                "altText": "About",
-                "url": "/about",
+                "label": "Learn more",
+                "altText": "Learn more",
+                "url": "/",
                 "showIcon": false,
                 "icon": "arrowLeft",
                 "iconPosition": "right",
@@ -43,9 +43,9 @@
                 "type": "Link"
             },
             {
-                "label": "Learn more",
-                "altText": "Learn more",
-                "url": "/",
+                "label": "About",
+                "altText": "About",
+                "url": "/about",
                 "showIcon": false,
                 "icon": "arrowLeft",
                 "iconPosition": "right",
